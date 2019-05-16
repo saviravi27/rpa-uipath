@@ -49,6 +49,6 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="210.5,62" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Welcome to git" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="210.5,62" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Welcome to git, second commit" />
   </Sequence>
 </Activity>
